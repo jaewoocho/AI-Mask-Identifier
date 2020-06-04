@@ -134,13 +134,13 @@ body {
 .navbar-light .navbar-brand {
 	line-height:1.68;
 	text-align: left;
-	color: #FFFFFF;
+	color: #000000;
 	
 		
 }
 
 .navbar-light .navbar-toggler {
-	border-color: #ffffff
+	border-color: #000000
 }
 
 .section {
@@ -198,6 +198,10 @@ body {
 	height: 2%;
 }
 
+.upload {
+	width: 50%;
+	height: 50%;
+}
 
 
 .bar-container {
