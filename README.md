@@ -1,5 +1,5 @@
 #AI Mask Identifier Prototype
-AI Machine learning Mask Identifier Beta Test Prototype A
+AI Machine learning Identifier Beta Test Prototype A
 
 
 Destktop URL: https://aimaskidentifier.netlify.app/
